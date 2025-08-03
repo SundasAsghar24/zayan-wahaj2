@@ -1,0 +1,156 @@
+.cl{
+    background-color: black;
+    color: white;
+}
+.button {
+    color: white;
+    border-radius: 5px;
+    margin: 2px;
+    background-color: red;
+    margin-right: 10px;
+
+}
+.hr{
+    color: white;
+}
+.div1{
+    background-color: black;
+    color: white;
+}
+
+.input {
+    border-radius: 18px;
+    margin: 0px;
+}
+
+.div {
+    background-color: black;
+    color: black;
+    border-radius: 5px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.nav {
+    color: black;
+    background-color: black;
+    margin-top: 10px;
+
+}
+
+.a {
+    font-style: italic;
+    font-weight: 1000;
+    color: red;
+
+}
+.kfc{
+    color: red;
+    font-style: italic;
+}
+
+.btn {
+    background-color: rgb(199, 16, 16);
+    margin : 2px;
+   
+}
+.button2{
+    color: white;
+    font-weight: 800;
+    background-color: rgb(151, 13, 13);
+    border: 2px;
+    margin-right: 600px;
+  
+    
+    
+}
+.button3 {
+    color: white;
+    font-weight: 800;
+    background-color: rgb(151, 13, 13);
+    border: 2px;
+    
+   
+
+
+}
+
+.container {
+    margin-top: 0px;
+}
+.basket{
+    margin-right: 10px;
+    border: 10px;
+    color: black;
+    padding: 5px;
+    margin-right: 10px;
+    
+}
+
+.type {
+    background-color: rgb(54, 26, 26);
+    color: white;
+    border-radius: 5px;
+    margin: 3px;
+}
+
+.type :hover {
+    border-color: red;
+    border: 5px;
+}
+
+.img1 {
+    size: 0px;
+    border-radius: 50%;
+    margin: 0%;
+    padding: 0%;
+}
+.card{
+    background-color: black;
+    color: white;
+}
+.ul {
+    padding-top: 100px;
+    margin-right: 100px;
+    margin-left: 10px;
+    
+
+}
+.li{
+    color: white;
+    text-decoration: none;
+    padding: 2px;
+
+}
+.h{
+    color: red;
+    font-size:large;
+}
+.p{
+   text-align: center;
+   color: white;
+   font-style: italic;
+   font-weight: 500;
+}
+.p1{
+    color : white;
+}
+.savg {
+    color: white;
+}
+.button1 {
+    color: red ;
+
+}
+.a1{
+    color: white;
+    text-decoration: none;
+    
+}
+.loginbtn{
+    background-color: red;
+}
+.email{
+    background-color: black;
+    color: white;
+}
